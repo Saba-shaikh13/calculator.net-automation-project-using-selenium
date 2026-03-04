@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-18T17:11:37 IST" name="Default suite" finished-at="2026-02-18T17:12:09 IST" duration-ms="31545">
+    <groups>
+    </groups>
+    <test started-at="2026-02-18T17:11:37 IST" name="Default test" finished-at="2026-02-18T17:12:09 IST" duration-ms="31545">
+      <class name="Automation_Testing3.Calculator.log">
+        <test-method is-config="true" signature="launch()[pri:0, instance:Automation_Testing3.Calculator.log@43bc63a3]" started-at="2026-02-18T17:11:37 IST" name="launch" finished-at="2026-02-18T17:12:04 IST" duration-ms="26821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="log_1()[pri:0, instance:Automation_Testing3.Calculator.log@43bc63a3]" started-at="2026-02-18T17:12:04 IST" name="log_1" finished-at="2026-02-18T17:12:07 IST" duration-ms="2822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_1 -->
+        <test-method is-config="true" signature="log_2()[pri:0, instance:Automation_Testing3.Calculator.log@43bc63a3]" started-at="2026-02-18T17:12:07 IST" name="log_2" finished-at="2026-02-18T17:12:09 IST" duration-ms="1536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_2 -->
+      </class> <!-- Automation_Testing3.Calculator.log -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
